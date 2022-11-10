@@ -31,7 +31,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/105197541/200997315-81ca6222-bc68-4203-a111-bf914d670d76.png">
+<img src="https://user-images.githubusercontent.com/105197541/200997315-81ca6222-bc68-4203-a111-bf914d670d76.png" width="300" height="300">
 
 <br>
 
@@ -46,7 +46,7 @@
 - 이를 실시간으로 확인하기 위해서는 **마크다운 패드2, 모우, 스택 에디트**를 이용하여 확인이 가능합니다.
 <br>
 - 마크다운 지원 앱에서 PDF와 HTML로 내보낼 수 있지만 일부 앱은 <br> 
-&nbsp;&nbsp;&nbsp;다른 앱(PC, IOS,맥에 있는 앱)으로도 내보낼 수 있습니다.
+&nbsp; &nbsp;다른 앱(PC, IOS,맥에 있는 앱)으로도 내보낼 수 있습니다.
 
 <br>
 
@@ -58,7 +58,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/105197541/201003790-49d25aac-6b70-4b65-af88-943721569db9.png">
+<img src="https://user-images.githubusercontent.com/105197541/201003790-49d25aac-6b70-4b65-af88-943721569db9.png" width="300" height="300">
 
 <br>
 
@@ -66,7 +66,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/105197541/201003852-1aa84bda-bb04-401f-8c9c-7a3669425183.png">
+<img src="https://user-images.githubusercontent.com/105197541/201003852-1aa84bda-bb04-401f-8c9c-7a3669425183.png" width="300" height="300">
 
 <br>
 
@@ -74,7 +74,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/105197541/201007647-f051d8af-1bcb-4c22-b2e7-5f7e7cd4b9fb.png">
+<img src="https://user-images.githubusercontent.com/105197541/201007647-f051d8af-1bcb-4c22-b2e7-5f7e7cd4b9fb.png" width="300" height="300">
 
 <br>
 
@@ -82,7 +82,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/105197541/201003922-9a388bea-b137-4e5f-9936-c06cbeaca3c9.png">
+<img src="https://user-images.githubusercontent.com/105197541/201003922-9a388bea-b137-4e5f-9936-c06cbeaca3c9.png" width="300" height="300">
 
 <br>
 
@@ -90,4 +90,4 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/105197541/201019489-2fd56cf9-8e4d-407f-9b82-317433a1e08e.png">
+<img src="https://user-images.githubusercontent.com/105197541/201019489-2fd56cf9-8e4d-407f-9b82-317433a1e08e.png" width="300" height="300">
