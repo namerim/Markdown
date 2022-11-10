@@ -20,8 +20,10 @@
 
 <br>
 
-1. 표준이 없어 사용자마다 문법이 상이할 수 있다.
-2. 모든 HTML 마크업을 대신하지 못한다.
+1. 모든 HTML의 마크업을 대신하지 못한다.
+2. 표준이 없기 때문에 도구에 따라 변환방식 또는 생성물이 다릅니다.
+3. 마크다운으로 파일 업로드하는 경우 저장한 다음 파일 경로를 입력해야되는 불편함이 있습니다.
+4. tistory, naver blog, notion과는 다르게 문법들을 하나하나 입력해야 합니다.
 
 <br>
 
@@ -56,6 +58,7 @@
 - 웹 편집기 **[스택 에디트](https://stackedit.io/)**
 
 <br>
+
 <kbd>
 <img src="https://user-images.githubusercontent.com/105197541/201003790-49d25aac-6b70-4b65-af88-943721569db9.png">
 </kbd>
@@ -89,5 +92,7 @@
 <kbd>
 <img src="https://user-images.githubusercontent.com/105197541/201003922-9a388bea-b137-4e5f-9936-c06cbeaca3c9.png">
 </kbd>
+
+<br>
 
 - 공용으로 많이 쓰는 **VSCODE**도 있습니다.
