@@ -46,7 +46,7 @@
 - 이를 실시간으로 확인하기 위해서는 **마크다운 패드2, 모우, 스택 에디트**를 이용하여 확인이 가능합니다.
 <br>
 - 마크다운 지원 앱에서 PDF와 HTML로 내보낼 수 있지만 일부 앱은 <br> 
-  다른 앱(PC, IOS,맥에 있는 앱)으로도 내보낼 수 있습니다.
+&nbsp;&nbsp;다른 앱(PC, IOS,맥에 있는 앱)으로도 내보낼 수 있습니다.
 
 <br>
 
@@ -78,7 +78,7 @@
 
 <br>
 
-- 윈도우용 **[마크다운 패드 2]**
+- 윈도우용 **[마크다운 패드 2](http://markdownpad.com/buy.html)** 
 
 <br>
 
@@ -86,4 +86,8 @@
 
 <br>
 
-- 공용으로 많이 쓰는 **VSCODE(Visual Studio Code)** 도 있습니다.
+- 공용으로 많이 쓰는 **VSCODE(Visual Studio Code), [마크 텍스트](https://github.com/marktext/marktext/releases)** 도 있습니다.
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/105197541/201019489-2fd56cf9-8e4d-407f-9b82-317433a1e08e.png">
