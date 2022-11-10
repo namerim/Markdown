@@ -86,4 +86,4 @@
 
 <br>
 
-- 공용으로 많이 쓰는 **VSCODE**도 있습니다.
+- 공용으로 많이 쓰는 **VSCODE(Visual Studio Code)** 도 있습니다.
