@@ -31,7 +31,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/105197541/200997315-81ca6222-bc68-4203-a111-bf914d670d76.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/105197541/200997315-81ca6222-bc68-4203-a111-bf914d670d76.png" width="900" height="300">
 
 <br>
 
@@ -45,8 +45,8 @@
 작성된 마크다운 서식의 결과를 보기 위해서는 텍스트 편집기를 사용해야 합니다. <br>
 - 이를 실시간으로 확인하기 위해서는 **마크다운 패드2, 모우, 스택 에디트**를 이용하여 확인이 가능합니다.
 <br>
-- 마크다운 지원 앱에서 PDF와 HTML로 내보낼 수 있지만 일부 앱은 <br> 
- &nbsp; 다른 앱(PC, IOS,맥에 있는 앱)으로도 내보낼 수 있습니다.
+- 마크다운 지원 앱에서 PDF와 HTML로 내보낼 수 있지만 일부 앱은 <br>
+&nbsp;&nbsp;다른 앱(PC, IOS,맥에 있는 앱)으로도 내보낼 수 있습니다.
 
 <br>
 
