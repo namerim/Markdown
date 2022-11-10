@@ -35,11 +35,10 @@
 <img src="https://user-images.githubusercontent.com/105197541/200997315-81ca6222-bc68-4203-a111-bf914d670d76.png">
 </kbd>
 
-
 <br>
 
->마크다운 파일(.md, .markdown 확장자)을 만든다. <br>
->마크다운 앱에서 파일을 열고 HTML문서로 변환한다.
+- 마크다운 파일(.md, .markdown 확장자)을 만든다. <br>
+- 마크다운 앱에서 파일을 열고 HTML문서로 변환한다.
 
 <br>
 
